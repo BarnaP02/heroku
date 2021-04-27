@@ -1,0 +1,7 @@
+# Készíts egy django-applikációt heroku-ra!
+
+Elegendő a következő tutorialt követned: 
+
+https://github.com/MolnAtt/djangotan/blob/main/deployment.md
+
+Megoldásként az applikációd URL-jét tartalmazó txt-fájlt töltsd fel!
